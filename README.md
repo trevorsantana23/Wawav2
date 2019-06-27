@@ -1,2 +1,2 @@
 # Wawav2
-Lizard
+Hello, this is a test!
